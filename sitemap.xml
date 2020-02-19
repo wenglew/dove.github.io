@@ -2,9 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://yoursite.com/2020/02/08/Linux%E6%90%AD%E5%BB%BADNS%E6%9C%8D%E5%8A%A1%E5%99%A8/</loc>
+    <loc>http://yoursite.com/2020/02/18/Liunx%E2%80%94%E6%90%AD%E5%BB%BADHCP%E6%9C%8D%E5%8A%A1%E5%99%A8/</loc>
     
-    <lastmod>2020-02-17T09:13:55.110Z</lastmod>
+    <lastmod>2020-02-18T15:22:40.368Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yoursite.com/2020/02/08/Linux%E2%80%94%E6%90%AD%E5%BB%BADNS%E6%9C%8D%E5%8A%A1%E5%99%A8/</loc>
+    
+    <lastmod>2020-02-18T15:16:59.148Z</lastmod>
     
   </url>
   
@@ -12,13 +19,6 @@
     <loc>http://yoursite.com/music/index.html</loc>
     
     <lastmod>2020-02-09T06:44:33.331Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://yoursite.com/2020/02/08/photo/</loc>
-    
-    <lastmod>2020-02-08T13:41:47.060Z</lastmod>
     
   </url>
   
